@@ -1,8 +1,8 @@
 
 ###Olá, eu sou o Rodrigo Afonso ✌️
 
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] (https://www.instagram.com/rodrigo_s_afonso/)
-[![Linkeid](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/rodrigo-soares-afonso-53919b19b/)
+<a>[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/rodrigo_s_afonso/)</a>
+<a> [![Linkeid](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/rodrigo-soares-afonso-53919b19b/)</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Afonso&show_icons=true&theme=merko)
 
